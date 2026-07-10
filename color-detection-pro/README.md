@@ -189,12 +189,3 @@ python main.py
 - Add CPU/GPU usage overlay via `psutil`
 
 ---
-
-## License
-
-Released under the [MIT License](LICENSE).
-
-## Author
-
-Built by a Computer Vision engineer as a portfolio / academic showcase
-project. Contributions and forks are welcome.
