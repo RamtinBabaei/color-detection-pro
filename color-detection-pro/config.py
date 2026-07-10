@@ -59,8 +59,8 @@ DILATE_ITERATIONS: int = 2
 # --------------------------------------------------------------------------- #
 # Tracking settings
 # --------------------------------------------------------------------------- #
-TRACKER_MAX_DISAPPEARED: int = 20      # frames before a track is dropped
-TRACKER_MAX_DISTANCE: int = 90         # px, max centroid jump to keep same ID
+TRACKER_MAX_DISAPPEARED: int = 40      # frames before a track is dropped
+TRACKER_MAX_DISTANCE: int = 120         # px, max centroid jump to keep same ID
 TRAIL_MAX_LENGTH: int = 40             # points kept for the motion trail
 SPEED_SMOOTHING_WINDOW: int = 5        # frames averaged for speed estimation
 
