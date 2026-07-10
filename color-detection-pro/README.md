@@ -167,9 +167,14 @@ python main.py
 
 ## Screenshots
 
-> Add your own captures to the `screenshots/` folder and reference them here, e.g.:
->
-> `![Detection demo](screenshots/demo.png)`
+`<img width="1928" height="1097" alt="image" src="https://github.com/user-attachments/assets/be53c935-c9bf-43f9-adf7-86baa6fa802e" />
+
+---------------------------------------
+
+## how It works
+
+<img width="2720" height="2400" alt="color_detection_pro_feature_overview" src="https://github.com/user-attachments/assets/e02a0d31-ae3c-4397-941f-395357d5162b" />
+
 
 ---
 
